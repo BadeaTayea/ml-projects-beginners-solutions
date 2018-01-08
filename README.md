@@ -18,3 +18,12 @@ In the following paragraphs I will go in detail about the different projects. If
 
 ## 1. Machine Learning Gladiator
 
+In the first chapter I talk about classification, regression and clustering and demonstrate the machine learning workflow (importing data, cleaning data, splitting data intro train/test sets, pre-processing, transformations and feature engineering)
+
+### Classification
+
+To start off, we classify if adult incomes is more or less equal 50,000$. We are analyzing the data set and doing first step in the direction of cleaning data and feature engineering. Next I introduce Support Vector Machines (SVM), Decision Trees and Gaussian Naive Bayes as classification techniques for building supervised classification models.
+
+## Regression
+
+To meet regression, we predict the wine quality score of red wines. I introduce Linear Regression and explain how to determine the accuracy of regression models with the root-mean-square-error (RMSE). 
