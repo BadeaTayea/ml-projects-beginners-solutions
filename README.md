@@ -27,3 +27,7 @@ To start off, we classify if adult incomes is more or less equal 50,000$. We are
 ## Regression
 
 To meet regression, we predict the wine quality score of red wines. I introduce Linear Regression and explain how to determine the accuracy of regression models with the root-mean-square-error (RMSE). 
+
+## Clustering
+
+Last but not least, we look at clustering. With the power of KMeans we cluster iris data entries and plot them.
